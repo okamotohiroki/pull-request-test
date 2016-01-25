@@ -1,15 +1,1 @@
 # pull-request-test
-# pull-request-test second
-# pull-request-test third
-# pull-request-test development feature
-# pull-request-test development feature second
-# deve
-# develop
-# develop2
-# Add pull
-# Add develop
-# new branch test
-# new branch test 2
-# Modify develop
-#
-# Some feature
